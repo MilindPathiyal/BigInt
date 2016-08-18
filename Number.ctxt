@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ toString()
+comment1.params=num
+comment1.target=int\ compareTo(Number)
+comment2.params=b
+comment2.target=Number\ multiply(Number)
+comment3.params=b
+comment3.target=Number\ divide(Number)
+comment4.params=b
+comment4.target=Number\ add(Number)
+comment5.params=b
+comment5.target=Number\ subtract(Number)
+numComments=6
